@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://anualane:soforall5@ac-7jh4wcl-shard-00-00.nzx8bfd.mongodb.net:27017,ac-7jh4wcl-shard-00-01.nzx8bfd.mongodb.net:27017,ac-7jh4wcl-shard-00-02.nzx8bfd.mongodb.net:27017/BLOG2?ssl=true&replicaSet=atlas-rrtcuu-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret": "kicksomeass",
+  "githubClientId": "ffdb386ffa4bae837a71",
+  "githubSecret": "989b7ae6cb51b291b171844a5db6c3749cabf3fb"
+}
