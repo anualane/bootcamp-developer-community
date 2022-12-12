@@ -30,12 +30,12 @@
 
 
 
-[register-screenshot]:https://github.com/anualane/bootcamp-developer-community.git/screenshots/1.png
-[login-screenshot]: https://github.com/anualane/bootcamp-developer-community.git/screenshots/2.png
-[add-child]: https://github.com/anualane/bootcamp-developer-community.git/screenshots/3.png
-[view-child-1]: https://github.com/anualane/bootcamp-developer-community.git/screenshots/4.png
-[view-child-2]: https://github.com/anualane/bootcamp-developer-community.git/screenshots/5.png
-[view-child-3]: https://github.com/anualane/bootcamp-developer-community.git/screenshots/6.png
-[view-child-4]: https://github.com/anualane/bootcamp-developer-community.git/screenshots/7.png
-[view-child-5]: https://github.com/anualane/bootcamp-developer-community.git/screenshots/8.png
+[register-screenshot]:https://github.com/anualane/bootcamp-developer-community/blob/main/screenshots/1.png
+[login-screenshot]: https://github.com/anualane/bootcamp-developer-community/blob/main/screenshots/2.png
+[add-child]: https://github.com/anualane/bootcamp-developer-community/blob/main/screenshots/3.png
+[view-child-1]: https://github.com/anualane/bootcamp-developer-community/blob/main/screenshots/4.png
+[view-child-2]: https://github.com/anualane/bootcamp-developer-community/blob/main/screenshots/5.png
+[view-child-3]: https://github.com/anualane/bootcamp-developer-community/blob/main/screenshots/6.png
+[view-child-4]: https://github.com/anualane/bootcamp-developer-community/blob/main/screenshots/7.png
+[view-child-5]: https://github.com/anualane/bootcamp-developer-community/blob/main/screenshots/8.png
 
